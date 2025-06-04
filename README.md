@@ -1,3 +1,4 @@
+
 # 🌿 dumpcord.su — Free IP Booter / Stresser
 
 Need real power to test your site?  
@@ -5,7 +6,7 @@ Need real power to test your site?
 
 ## 🌐 Website
 
-https://dumpcord.su
+[https://dumpcord.su](https://dumpcord.su/?r=git-3)
 
 ## 🔥 What You Get
 
@@ -31,4 +32,4 @@ This tool is meant for **educational and safe use only**.
 ## 🔗 Start Now
 
 👉 [https://t.me/dumpcord](https://t.me/dumpcord)  
-👉 [https://dumpcord.su](https://dumpcord.su).
+👉 [https://dumpcord.su](https://dumpcord.su/?r=git-3-1) 
