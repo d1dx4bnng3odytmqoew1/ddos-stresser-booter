@@ -1,3 +1,4 @@
+
 # 🌿 dumpcord.ru — Free IP Booter / Stresser
 
 Need real power to test your site?  
@@ -31,4 +32,4 @@ This tool is meant for **educational and safe use only**.
 ## 🔗 Start Now
 
 👉 [https://t.me/dumpcord](https://t.me/dumpcord)  
-👉 [https://dumpcord.ru](https://dumpcord.ru/?r=git-3-1).
+👉 [https://dumpcord.ru](https://dumpcord.ru/?r=git-3-1) 
